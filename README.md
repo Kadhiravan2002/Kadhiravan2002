@@ -62,7 +62,7 @@ I’m a highly motivated Data Science enthusiast with a strong foundation in **P
 
 - 📧 Email: [kadhiravan2026@gmail.com](mailto:kadhiravan2026@gmail.com)
 - 🌐 Portfolio: *Coming Soon*
-- 💼 LinkedIn: [linkedin.com/in/kadhiravan2002](https://www.linkedin.com/in/kadhiravan2002)
+- 💼 LinkedIn: [linkedin.com/in/kadhiravan2002](http://www.linkedin.com/in/kadhiravan-arasu-821049312)
 - 💻 GitHub: [github.com/Kadhiravan2002](https://github.com/Kadhiravan2002)
 
 ---
