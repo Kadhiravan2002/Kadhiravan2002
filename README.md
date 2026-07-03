@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Kadhiravan A
 
-🎯 **Aspiring Data Scientist & GenAI Developer**  
+🎯 **Aspiring Data Scientist & Data Analyst**  
 🔍 Passionate about transforming data into actionable insights through Machine Learning, Visualization & LLM-powered solutions.
 
 ---
